@@ -1,0 +1,12 @@
+# Ignore build artifacts and IDE settings
+build/
+.vscode/
+CMakeFiles/
+CMakeCache.txt
+*.o
+*.obj
+*.exe
+*.app
+*.log
+*.user
+*.DS_Store
